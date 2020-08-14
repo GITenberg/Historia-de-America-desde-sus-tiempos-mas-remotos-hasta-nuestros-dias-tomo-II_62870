@@ -1,0 +1,29 @@
+_repo: Historia-de-America-desde-sus-tiempos-mas-remotos-hasta-nuestros-dias-tomo-II_62870
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ortega Rubio, Juan
+    aliases:
+    - Rubio, Juan Ortega
+    - Ortega y Rubio, Juan
+    birthdate: 1845
+    deathdate: 1921
+    gutenberg_agent_id: '49709'
+    url: http://www.gutenberg.org/2009/agents/49709
+    wikipedia: https://es.wikipedia.org/wiki/Juan_Ortega_Rubio
+description: ''
+gutenberg_issued: '2020-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62870'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- History'
+- !lcc 'E011'
+- GITenberg
+title: Historia de América desde sus tiempos más remotos hasta nuestros días, tomo
+  II
+url: http://www.gutenberg.org/ebooks/62870
